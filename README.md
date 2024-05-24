@@ -1,3 +1,11 @@
+## POO - Desafio
+
+
+### Modelagem e Diagramação de um Componente iPhone
+
+Para este desafio proposto pela DIO, foi criado conforme os objetivos um diagrama UML e o programa JAVA.
+
+
 ```mermaid
     classDiagram    
     
